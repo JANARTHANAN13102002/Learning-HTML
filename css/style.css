@@ -228,7 +228,7 @@ header{
 
 .category__icon{
     background: var(--color-primary);
-    padding: 0.7rem;
+    padding: 0.7rem 1rem 0.7rem 1rem;
     border-radius: 0.9rem;
 }
 
